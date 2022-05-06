@@ -23,8 +23,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   },
   networks: {
     ropsten: { 
-    url: 'https://eth-ropsten.alchemyapi.io/v2/2uOw3zM3aYUy2AaEC0wrP3cnvByrWgwJ',
-    accounts: ['aa1bd15487541f15f00a2b3665a43d37c57575d92caf7d42abc878e93f109d66'] 
+    url: 'https://eth-ropsten.alchemyapi.io/v2/...',
+    accounts: ['tsss'] 
   }
  }
 };
